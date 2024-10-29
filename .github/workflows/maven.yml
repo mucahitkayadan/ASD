@@ -18,7 +18,6 @@ permissions:
   contents: read
   actions: read
   security-events: write  # This permission is needed for dependency submission
-  dependencies: write
 
 jobs:
   build:
